@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TangFish_02_Colored" size="1024.000000 1024.000000" />
+    <ImageTarget name="MoorFish_01_Colored" size="1024.000000 1024.000000" />
+    <ImageTarget name="MandarinFish_01_Colored" size="1024.000000 1024.000000" />
+    <ImageTarget name="FlowerHornFish_02_Colored" size="1024.000000 1024.000000" />
+    <ImageTarget name="ClownFish_01_Colored" size="1024.000000 1024.000000" />
+    <ImageTarget name="BettaFish_01_Colored" size="1024.000000 1024.000000" />
+    <ImageTarget name="AngelFish_12_Colored" size="1024.000000 1024.000000" />
+    <ImageTarget name="AngelFish_08_Colored" size="1024.000000 1024.000000" />
+    <ImageTarget name="AngelFish_04_Colored" size="1024.000000 1024.000000" />
+    <ImageTarget name="AngelFish_02_Colored" size="1024.000000 1024.000000" />
+    <ImageTarget name="MandarinFish_01" size="1024.000000 1024.000000" />
+    <ImageTarget name="BettaFish_01" size="1024.000000 1024.000000" />
+    <ImageTarget name="AngelFish_08" size="1024.000000 1024.000000" />
+    <ImageTarget name="AngelFish_04" size="1024.000000 1024.000000" />
+    <ImageTarget name="ClownFish_01" size="1024.000000 1024.000000" />
+    <ImageTarget name="TangFish_02" size="1024.000000 1024.000000" />
+    <ImageTarget name="MoorFish_01" size="1024.000000 1024.000000" />
+    <ImageTarget name="FlowerHornFish_02" size="1024.000000 1024.000000" />
+    <ImageTarget name="AngelFish_12" size="1024.000000 1024.000000" />
+    <ImageTarget name="AngelFish_02" size="1024.000000 1024.000000" />
+  </Tracking>
+</QCARConfig>

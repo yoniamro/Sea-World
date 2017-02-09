@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 300edf4d448d6f2408448c39511c4533
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone008
+    100002: Bone009
+    100004: Bone010
+    100006: Bone011
+    100008: Bone012
+    100010: Bone013
+    100012: Bone014
+    100014: Bone015
+    100016: Bone016
+    100018: Bone017
+    100020: Bone018
+    100022: Bone019
+    100024: Bone020
+    100026: Bone021
+    100028: Bone022
+    100030: Bone023
+    100032: Bone024
+    100034: Bone025
+    100036: Bone026
+    100038: Bone027
+    100040: Bone028
+    100042: Bone029
+    100044: Bone030
+    100046: Bone031
+    100048: Bone032
+    100050: Bone033
+    100052: Bone034
+    100054: Bone035
+    100056: Bone036
+    100058: Bone037
+    100060: Bone038
+    100062: Bone039
+    100064: Bone040
+    100066: Bone041
+    100068: Bone042
+    100070: Bone043
+    100072: Bone044
+    100074: Bone045
+    100076: Bone046
+    100078: Bone047
+    100080: Bone048
+    100082: Bone049
+    100084: Bone050
+    100086: Bone051
+    100088: Bone052
+    100090: Bone053
+    100092: Bone054
+    100094: Bone055
+    100096: Bone056
+    100098: Bone057
+    100100: Bone058
+    100102: Bone059
+    100104: Bone060
+    100106: Bone061
+    100108: Bone062
+    100110: Bone063
+    100112: Bone064
+    100114: Bone065
+    100116: Bone066
+    100118: Bone067
+    100120: Bone068
+    100122: Bone069
+    100124: Bone070
+    100126: Bone071
+    100128: Bone072
+    100130: Bone073
+    100132: Bone073(mirrored)
+    100134: Bone073(mirrored)001
+    100136: Bone073(mirrored)001(mirrored)
+    100138: Bone073(mirrored)001(mirrored)001
+    100140: Bone073(mirrored)002
+    100142: Bone073(mirrored)003
+    100144: Bone074
+    100146: Bone074(mirrored)
+    100148: Bone074(mirrored)001
+    100150: Bone074(mirrored)001(mirrored)
+    100152: Bone074(mirrored)001(mirrored)001
+    100154: Bone074(mirrored)002
+    100156: Bone074(mirrored)003
+    100158: Bone075
+    100160: Bone075(mirrored)
+    100162: Bone075(mirrored)001
+    100164: Bone075(mirrored)001(mirrored)
+    100166: Bone075(mirrored)001(mirrored)001
+    100168: Bone075(mirrored)002
+    100170: Bone075(mirrored)003
+    100172: Bone076
+    100174: Bone076(mirrored)
+    100176: Bone076(mirrored)001
+    100178: Bone076(mirrored)001(mirrored)
+    100180: Bone076(mirrored)001(mirrored)001
+    100182: Bone076(mirrored)002
+    100184: Bone076(mirrored)003
+    100186: Bone077
+    100188: Bone077(mirrored)
+    100190: Bone077(mirrored)001
+    100192: Bone077(mirrored)001(mirrored)
+    100194: Bone077(mirrored)001(mirrored)001
+    100196: Bone077(mirrored)002
+    100198: Bone077(mirrored)003
+    100200: Bone078
+    100202: Bone078(mirrored)
+    100204: Bone078(mirrored)001
+    100206: Bone078(mirrored)001(mirrored)
+    100208: Bone078(mirrored)001(mirrored)001
+    100210: Bone078(mirrored)002
+    100212: Bone078(mirrored)003
+    100214: Bone079
+    100216: Bone080
+    100218: Bone081
+    100220: Bone082
+    100222: Bone083
+    100224: Bone084
+    100226: IK Chain001
+    100228: IK Chain002
+    100230: IK Chain003
+    100232: IK Chain004
+    100234: IK Chain005
+    100236: IK Chain006
+    100238: IK Chain007
+    100240: IK Chain008
+    100242: Line001
+    100244: Line002
+    100246: Line003
+    100248: Line004
+    100250: Line007
+    100252: Line008
+    100254: Line009
+    100256: Object007
+    100258: Shape001
+    100260: Shape005
+    100262: //RootNode
+    400000: Bone008
+    400002: Bone009
+    400004: Bone010
+    400006: Bone011
+    400008: Bone012
+    400010: Bone013
+    400012: Bone014
+    400014: Bone015
+    400016: Bone016
+    400018: Bone017
+    400020: Bone018
+    400022: Bone019
+    400024: Bone020
+    400026: Bone021
+    400028: Bone022
+    400030: Bone023
+    400032: Bone024
+    400034: Bone025
+    400036: Bone026
+    400038: Bone027
+    400040: Bone028
+    400042: Bone029
+    400044: Bone030
+    400046: Bone031
+    400048: Bone032
+    400050: Bone033
+    400052: Bone034
+    400054: Bone035
+    400056: Bone036
+    400058: Bone037
+    400060: Bone038
+    400062: Bone039
+    400064: Bone040
+    400066: Bone041
+    400068: Bone042
+    400070: Bone043
+    400072: Bone044
+    400074: Bone045
+    400076: Bone046
+    400078: Bone047
+    400080: Bone048
+    400082: Bone049
+    400084: Bone050
+    400086: Bone051
+    400088: Bone052
+    400090: Bone053
+    400092: Bone054
+    400094: Bone055
+    400096: Bone056
+    400098: Bone057
+    400100: Bone058
+    400102: Bone059
+    400104: Bone060
+    400106: Bone061
+    400108: Bone062
+    400110: Bone063
+    400112: Bone064
+    400114: Bone065
+    400116: Bone066
+    400118: Bone067
+    400120: Bone068
+    400122: Bone069
+    400124: Bone070
+    400126: Bone071
+    400128: Bone072
+    400130: Bone073
+    400132: Bone073(mirrored)
+    400134: Bone073(mirrored)001
+    400136: Bone073(mirrored)001(mirrored)
+    400138: Bone073(mirrored)001(mirrored)001
+    400140: Bone073(mirrored)002
+    400142: Bone073(mirrored)003
+    400144: Bone074
+    400146: Bone074(mirrored)
+    400148: Bone074(mirrored)001
+    400150: Bone074(mirrored)001(mirrored)
+    400152: Bone074(mirrored)001(mirrored)001
+    400154: Bone074(mirrored)002
+    400156: Bone074(mirrored)003
+    400158: Bone075
+    400160: Bone075(mirrored)
+    400162: Bone075(mirrored)001
+    400164: Bone075(mirrored)001(mirrored)
+    400166: Bone075(mirrored)001(mirrored)001
+    400168: Bone075(mirrored)002
+    400170: Bone075(mirrored)003
+    400172: Bone076
+    400174: Bone076(mirrored)
+    400176: Bone076(mirrored)001
+    400178: Bone076(mirrored)001(mirrored)
+    400180: Bone076(mirrored)001(mirrored)001
+    400182: Bone076(mirrored)002
+    400184: Bone076(mirrored)003
+    400186: Bone077
+    400188: Bone077(mirrored)
+    400190: Bone077(mirrored)001
+    400192: Bone077(mirrored)001(mirrored)
+    400194: Bone077(mirrored)001(mirrored)001
+    400196: Bone077(mirrored)002
+    400198: Bone077(mirrored)003
+    400200: Bone078
+    400202: Bone078(mirrored)
+    400204: Bone078(mirrored)001
+    400206: Bone078(mirrored)001(mirrored)
+    400208: Bone078(mirrored)001(mirrored)001
+    400210: Bone078(mirrored)002
+    400212: Bone078(mirrored)003
+    400214: Bone079
+    400216: Bone080
+    400218: Bone081
+    400220: Bone082
+    400222: Bone083
+    400224: Bone084
+    400226: IK Chain001
+    400228: IK Chain002
+    400230: IK Chain003
+    400232: IK Chain004
+    400234: IK Chain005
+    400236: IK Chain006
+    400238: IK Chain007
+    400240: IK Chain008
+    400242: Line001
+    400244: Line002
+    400246: Line003
+    400248: Line004
+    400250: Line007
+    400252: Line008
+    400254: Line009
+    400256: Object007
+    400258: Shape001
+    400260: Shape005
+    400262: //RootNode
+    4300000: Object007
+    7400000: Swim
+    11100000: //RootNode
+    13700000: Object007
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Swim
+      takeName: 
+      firstFrame: 10
+      lastFrame: 160
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 4b9ac4f38850ac647928ca52772bd8b6
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Bone005
+    100010: Bone006
+    100012: Bone006(mirrored)
+    100014: Bone007
+    100016: Bone007(mirrored)
+    100018: Bone008
+    100020: Bone008(mirrored)
+    100022: Bone009
+    100024: Bone009(mirrored)
+    100026: Bone010
+    100028: Bone010(mirrored)
+    100030: Bone011
+    100032: Bone011(mirrored)
+    100034: Bone012
+    100036: Bone012(mirrored)
+    100038: Bone013
+    100040: Bone013(mirrored)
+    100042: Bone014
+    100044: Bone014(mirrored)
+    100046: Bone015
+    100048: Bone015(mirrored)
+    100050: Bone016
+    100052: Bone016(mirrored)
+    100054: Bone017
+    100056: Bone017(mirrored)
+    100058: Turtle_Sleeping
+    100060: //RootNode
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Bone005
+    400010: Bone006
+    400012: Bone006(mirrored)
+    400014: Bone007
+    400016: Bone007(mirrored)
+    400018: Bone008
+    400020: Bone008(mirrored)
+    400022: Bone009
+    400024: Bone009(mirrored)
+    400026: Bone010
+    400028: Bone010(mirrored)
+    400030: Bone011
+    400032: Bone011(mirrored)
+    400034: Bone012
+    400036: Bone012(mirrored)
+    400038: Bone013
+    400040: Bone013(mirrored)
+    400042: Bone014
+    400044: Bone014(mirrored)
+    400046: Bone015
+    400048: Bone015(mirrored)
+    400050: Bone016
+    400052: Bone016(mirrored)
+    400054: Bone017
+    400056: Bone017(mirrored)
+    400058: //RootNode
+    400060: Turtle_Sleeping
+    4300000: Turtle_Sleeping
+    7400000: Sleep
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Turtle_Sleeping
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Sleep
+      takeName: 
+      firstFrame: 10
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

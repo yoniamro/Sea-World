@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BigFishMarker" size="1024.000000 677.888000" />
+    <ImageTarget name="Stingray" size="1024.000000 1024.000000" />
+    <ImageTarget name="Starfish" size="1024.000000 1024.000000" />
+    <ImageTarget name="Squid" size="1024.000000 1024.000000" />
+    <ImageTarget name="Shrimp" size="1024.000000 1024.000000" />
+    <ImageTarget name="Shark" size="1024.000000 1024.000000" />
+    <ImageTarget name="Sea_Turtle" size="1024.000000 1024.000000" />
+    <ImageTarget name="Sea_Horse" size="1024.000000 1024.000000" />
+    <ImageTarget name="Puffer-fish" size="1024.000000 1024.000000" />
+    <ImageTarget name="Pirranha" size="1024.000000 1024.000000" />
+    <ImageTarget name="Octopus" size="1024.000000 1024.000000" />
+    <ImageTarget name="Lobster" size="1024.000000 1024.000000" />
+    <ImageTarget name="Killer_Whale" size="1024.000000 1024.000000" />
+    <ImageTarget name="Jelly_Fish" size="1024.000000 1024.000000" />
+    <ImageTarget name="Hatchet-Fish" size="1024.000000 1024.000000" />
+    <ImageTarget name="Goldfish" size="1024.000000 1024.000000" />
+    <ImageTarget name="Dolphin" size="1024.000000 1024.000000" />
+    <ImageTarget name="Crab" size="1024.000000 1024.000000" />
+    <ImageTarget name="Clown_Fish" size="1024.000000 1024.000000" />
+    <ImageTarget name="Catfish" size="1024.000000 1024.000000" />
+    <ImageTarget name="candy-basslet" size="1024.000000 1024.000000" />
+    <ImageTarget name="blue_whale" size="1024.000000 1024.000000" />
+    <ImageTarget name="betta-fish" size="1024.000000 1024.000000" />
+    <ImageTarget name="Angler-fish" size="1024.000000 1024.000000" />
+    <ImageTarget name="Angel-Fish" size="1024.000000 1024.000000" />
+    <ImageTarget name="action-card" size="1024.000000 1024.000000" />
+  </Tracking>
+</QCARConfig>
